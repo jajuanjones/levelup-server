@@ -1,0 +1,13 @@
+[
+    {
+        "model": "levelupapi.event",
+        "pk": 1,
+        "fields": {
+            "game": 1,
+            "description": "Something Something",
+            "date": "2022-04-27",
+            "time": "03:59",
+            "organizer": 1
+        }
+    }
+]
